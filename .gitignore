@@ -11,4 +11,5 @@ dependency-reduced-pom.xml
 *.psd
 /.idea
 .release
-*~
+*~dotnet tool install --global wix
+
